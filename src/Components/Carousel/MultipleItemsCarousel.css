@@ -1,0 +1,13 @@
+.slider-container {
+  width: 1168px;
+  /* Set the width according to the number of slidesToShow */
+}
+
+.slick-slide img {
+  width: 100%; /* Make sure the images take the full width of the slide */
+}
+.slider {
+  overflow: hidden;
+  padding: 20px 18px 20px 40px;
+  margin-left: 10px;
+}

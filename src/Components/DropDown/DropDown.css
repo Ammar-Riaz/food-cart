@@ -1,0 +1,10 @@
+.dropdown > a {
+  padding: 10px 50px;
+}
+.dropdown-menu {
+  padding: 10px 36px !important;
+}
+
+.dropdown-item {
+  cursor: pointer;
+}

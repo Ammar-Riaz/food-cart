@@ -1,0 +1,9 @@
+.navbar {
+  display: flex;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: #198754 !important;
+  box-shadow: 25, 135, 84;
+}

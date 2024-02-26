@@ -1,0 +1,46 @@
+.features {
+  padding: 20px 40px;
+}
+
+h1 {
+  text-align: center;
+}
+hr {
+  width: 20%;
+  margin: auto;
+  border: 3px solid #198754;
+}
+.products-list {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px 0;
+}
+
+.products-list li {
+  list-style: none;
+}
+
+.products-list li > a {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.display-products {
+  display: flex;
+  gap: 20px;
+}
+
+.card-img-top {
+  height: 230px;
+  border-radius: 10px;
+}
+
+.card {
+  text-align: center;
+}
+
+.card-body > p {
+  font-size: 20px;
+  font-weight: 600;
+}
